@@ -1,0 +1,2 @@
+# bitcoinwhitepaper
+European Portuguese translation
